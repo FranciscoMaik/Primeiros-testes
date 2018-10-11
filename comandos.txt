@@ -1,0 +1,7 @@
+git config --global user.name "fulano" (Configurando o nome do usuario)
+git config --global user.email email.com (Configurando o email do usuario)
+
+git config --list(Lista de configurações)
+git init(cria repositorio)
+git status(status do commits)
+rm -rf .git(apaga de forma recursiva o repositorio git)
